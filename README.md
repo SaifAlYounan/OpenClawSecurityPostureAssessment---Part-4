@@ -2,6 +2,8 @@
 
 **Part of the [OpenClaw Security Suite](#the-suite) — Tool 4 of 4**
 
+> **⚠️ Proof of concept.** This is an open-source demo showing how far guided hardening can take AI agent security. It does not guarantee your agent is secure after running it. The production version is whatever you make of it — fork it, add your own hardening steps, make it yours. This repo exists to show what's possible.
+
 Step-by-step guided security hardening. The other tools tell you what's broken. This one walks you through fixing it — one command at a time, in plain language, with verification after each step.
 
 Based on ["Don't Let the Claw Grip Your Hand"](https://arxiv.org/abs/2603.10387) (Shan et al., 2026).
